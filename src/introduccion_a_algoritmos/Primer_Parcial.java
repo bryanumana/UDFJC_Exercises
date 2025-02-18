@@ -12,12 +12,12 @@ public class Primer_Parcial {
         float sum = 0;
 
         do {
-            System.out.print("Enter a number: ");
+            System.out.print("Enter a number of 5 digits and positive: ");
             number = sc.nextInt();
         } while (number < 10000 || number > 99999);
 
         int n = number;
-        
+
         while (n > 0) {
             int digit = n % 10;
             n = n / 10;
