@@ -1,6 +1,7 @@
 //Un algoritmo que lea un número entero positivo de 5 cifras y calcule el promedio de todos sus digitos.
 //El algoritmo debe verificar que el número solicitado sea válido e insistir hasta el usuario ingrese el número correcto.
 // EJEMPLO: Si ingresa 23457 debe escribir en pantalla 4.2
+
 package introduccion_a_algoritmos;
 
 import java.util.Scanner;
