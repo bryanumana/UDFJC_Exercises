@@ -16,22 +16,22 @@ class Polinomio {
         this.c = c;
     }
 
-    // Método para sumar otro polinomio
+    // Metodo para sumar otro polinomio
     public Polinomio sumar(Polinomio otro) {
         return new Polinomio(this.a + otro.a, this.b + otro.b, this.c + otro.c);
     }
 
-    // Método para multiplicar el polinomio por un número
+    // Metodo para multiplicar el polinomio por un número
     public Polinomio multiplicarPorNumero(double numero) {
         return new Polinomio(this.a * numero, this.b * numero, this.c * numero);
     }
 
-    // Método para mostrar el polinomio
+    // Metodo para mostrar el polinomio
     public void mostrar() {
         System.out.println(a + "x^2 + " + b + "x + " + c);
     }
 
-    // Función amiga (método estático) para sumar dos polinomios
+    // Función amiga (metodo estático) para sumar dos polinomios
     public static Polinomio sumarPolinomios(Polinomio p1, Polinomio p2) {
         return new Polinomio(p1.a + p2.a, p1.b + p2.b, p1.c + p2.c);
     }
