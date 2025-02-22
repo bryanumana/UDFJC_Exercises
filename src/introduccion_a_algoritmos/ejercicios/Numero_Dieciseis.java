@@ -1,6 +1,6 @@
 // Escriba los primeros n términos de la serie Fibonacci
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

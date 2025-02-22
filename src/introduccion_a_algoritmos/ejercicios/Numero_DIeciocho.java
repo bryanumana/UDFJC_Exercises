@@ -1,6 +1,6 @@
 //Pida un entero positivo y escriba y escriba el número resultante de eliminar los digitos impares
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

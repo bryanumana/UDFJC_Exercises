@@ -1,6 +1,6 @@
 //Calcule la aproximación de sen x a través de la serie de Tylor
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

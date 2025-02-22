@@ -1,14 +1,12 @@
-//Para el ejercicio Numero_Doce,calcule la suma de todos los números del listado
-
-package introduccion_a_algoritmos;
+// Para un número entero positivo, escriba el listado de todos los números primos anteriores a él
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 
-public class Numero_Trece {
+public class Numero_Doce {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;
-        int sum = 0;
 
         do {
             System.out.print("Enter a positive integer: ");
@@ -26,9 +24,8 @@ public class Numero_Trece {
             }
 
             if (isPrime) {
-                sum += i;
+                System.out.println(i);
             }
         }
-        System.out.println("The sum of the prime numbers before " + n + " are: " + sum);
     }
 }

@@ -1,6 +1,6 @@
 //Para el ejercicio Numero_Dos calcular la suma de los números del listado
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

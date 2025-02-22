@@ -1,6 +1,6 @@
 //Escriba al listado de los primeros n múltiplos de 7, n ingresado por teclado
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

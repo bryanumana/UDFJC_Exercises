@@ -1,5 +1,5 @@
 //Para el ejercicio Numero_Catorce escriba las tablas del 1 hasta el n
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

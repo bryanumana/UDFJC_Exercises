@@ -1,7 +1,7 @@
 //Pida al usuario ingresar a, b, c,.
 // Escriba en pantalla los múltiplos de a que estén entre b y c
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 //Pida al usuario los dos primeros términos de una serie y escriba los n primeros términos de la serie
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

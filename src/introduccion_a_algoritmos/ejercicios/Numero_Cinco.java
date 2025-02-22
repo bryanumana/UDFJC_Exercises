@@ -1,7 +1,7 @@
 // Pida al usuario ingresar números, termine cuando haya ingresar 5 números pares;
 // cacule y escriba la suma de los 5 pares
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 //Pida al usuario un número entero, escriba el número de cifras que tiene
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

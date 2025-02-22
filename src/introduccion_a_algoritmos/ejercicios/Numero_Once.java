@@ -1,10 +1,9 @@
-// Para el ejercicio Numero_Diez, escriba la cantidad de divisores que tiene
-
-package introduccion_a_algoritmos;
+//Para un entero positivo determine si es primo
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 
-public class Numero_Diez {
+public class Numero_Once {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;
@@ -22,6 +21,10 @@ public class Numero_Diez {
                 counter++;
             }
         }
-        System.out.println("The number of divisors it has are: " + counter);
+        if (counter == 2) {
+            System.out.println("The number is prime.");
+        }else{
+            System.out.println("The number is not prime.");
+        }
     }
 }

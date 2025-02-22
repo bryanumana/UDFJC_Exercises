@@ -2,7 +2,7 @@
 // y escribir todos los enteros entre a y b de forma ascendente
 // y luego de forma descendente
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

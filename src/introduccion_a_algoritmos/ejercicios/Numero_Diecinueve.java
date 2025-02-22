@@ -1,7 +1,7 @@
 //Pida un entero positivo y escríbalo al revés
 //Este ejercicio debe realizarse sin usar funciones relacionadas
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

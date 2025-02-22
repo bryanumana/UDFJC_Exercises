@@ -1,5 +1,5 @@
 //Para un entero positivo ingresado, escriba el listado de todos sus divisores
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

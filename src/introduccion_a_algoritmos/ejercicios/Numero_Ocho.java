@@ -1,6 +1,6 @@
 //Para el ejercicio Numero_Seis calcular la sumatoria de los digitos
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 

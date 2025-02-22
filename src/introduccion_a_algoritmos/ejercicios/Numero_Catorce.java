@@ -1,6 +1,6 @@
 // Pida al usuario un entero positivo n y escriba las tablas de multiplicar de n
 
-package introduccion_a_algoritmos;
+package introduccion_a_algoritmos.ejercicios;
 
 import java.util.Scanner;
 
